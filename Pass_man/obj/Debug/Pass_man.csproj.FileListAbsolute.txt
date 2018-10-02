@@ -1,0 +1,10 @@
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\bin\Debug\Pass_man.exe.config
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\bin\Debug\Pass_man.exe
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\bin\Debug\Pass_man.pdb
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.csprojAssemblyReference.cache
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.MainForm.resources
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.Properties.Resources.resources
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.csproj.GenerateResource.cache
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.csproj.CoreCompileInputs.cache
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.exe
+C:\Users\Northdragon\source\repos\Pass_man\Pass_man\obj\Debug\Pass_man.pdb
